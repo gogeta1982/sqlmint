@@ -3,9 +3,11 @@
 # Team; Indonesian Necoder
 # installing termux
 
-#$ pkg update && pkg upgrade
-#$ pkg install git python2 python
-#$ git clone https://github.com/cyber-Force77/sqlmint
-#$ cd sqlmint
-#$ python3 install.py
-#$ python3 sqlmint.py
+$ pkg install git
+$ pkg install python python2
+$ git clone https://github.com/cyber-Force77/sqlmint
+$ cd sqlm
+$ python3 install.py
+$ python3 sqlmint.py
+
+# Done :)
